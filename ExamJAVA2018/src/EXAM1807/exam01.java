@@ -9,6 +9,8 @@ public class exam01 {
 		
 		System.out.println("main called");
 		
+		System.out.println("test1");
+		
 		
 		
 	}//.main

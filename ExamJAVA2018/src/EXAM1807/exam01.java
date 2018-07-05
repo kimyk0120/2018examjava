@@ -9,8 +9,10 @@ public class exam01 {
 		
 		System.out.println("main called");
 		
-		System.out.println("test1");
-		System.out.println("test2");
+		System.out.println("git test1");
+		System.out.println("git test2");
+		System.out.println("git test3");
+		System.out.println("git test4");
 		
 		
 	}//.main

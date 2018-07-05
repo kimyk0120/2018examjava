@@ -5,7 +5,6 @@ package EXAM1807;
 
 import java.io.IOException;
 
-import org.jsoup.Connection;
 import org.jsoup.Jsoup;
 import org.jsoup.nodes.Document;
 import org.jsoup.nodes.Element;

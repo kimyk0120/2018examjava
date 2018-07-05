@@ -12,7 +12,7 @@ public class exam01 {
 		System.out.println("git test1");
 		System.out.println("git test2 mod");
 		System.out.println("git test3");
-		System.out.println("git test4 mod");
+		System.out.println("git test4 mod mod");
 		
 		
 	}//.main

@@ -1,6 +1,5 @@
 package EXAM1807;
 
-
 public class exam01 {
 	
 	

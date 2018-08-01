@@ -1,7 +1,7 @@
 /**
  * 
  */
-package EXAM1807;
+package exam;
 
 import java.io.IOException;
 

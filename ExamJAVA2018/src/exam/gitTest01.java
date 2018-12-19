@@ -1,6 +1,6 @@
 package exam;
 
-public class exam01 {
+public class gitTest01 {
 	
 	
 	public static void main(String[] args) {
